@@ -1,0 +1,16 @@
+first i have installed the sqlite database.
+
+then added a sql file (Datafiles/File.sql) to the database.
+
+that file includes different virus types details like MD5, SHA1, SHA256, name, type of virus.
+
+this data has entered to the database.
+
+then select a file from the view provided.
+
+then click scan to get the report.
+
+if the virus information available in the database it will generate a report based on the data on the database.
+
+for the testing purposes you can select EICA test file
+
